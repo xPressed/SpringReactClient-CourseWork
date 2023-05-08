@@ -1,0 +1,21 @@
+.btn {
+    background-color: white;
+    color: #5700f7;
+    border-color: #5700f7;
+    border-radius: 30px;
+}
+
+.btn:hover {
+    background-color: #5700f7;
+    color: white;
+}
+
+.content {
+    border: 2px solid #5700f7;
+    border-radius: 25px;
+}
+
+.backdrop {
+    background-color: white;
+    opacity: 0.5 !important;
+}

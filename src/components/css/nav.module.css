@@ -1,0 +1,40 @@
+.current {
+    border: 2px solid #5700f7;
+    border-radius: 30px;
+    text-decoration: none;
+    font-size: 20px;
+    background-color: white;
+    color: #5700f7;
+}
+
+.other {
+    text-decoration: none;
+    font-size: 20px;
+    color: grey;
+}
+
+.current:hover {
+    background-color: #5700f7;
+    color: white;
+}
+
+.btn1 {
+    background-color: white;
+    color: black;
+    font-weight: bold;
+}
+
+.btn1:hover {
+    background-color: white;
+    color: #5700f7;
+}
+
+.btn2 {
+    background-color: white;
+    color: grey;
+}
+
+.btn2:hover {
+    background-color: white;
+    color: #dc3545;
+}

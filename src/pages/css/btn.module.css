@@ -1,0 +1,11 @@
+.btn {
+    color: #5700f7;
+    border-color: #5700f7;
+    border-radius: 30px;
+    background-color: white;
+}
+
+.btn:hover {
+    color: white;
+    background-color: #5700f7;
+}

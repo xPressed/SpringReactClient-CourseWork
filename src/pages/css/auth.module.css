@@ -1,0 +1,19 @@
+.first {
+    background-color: white;
+    color: #5700f7;
+}
+
+.first:hover {
+    background-color: #5700f7;
+    color: white;
+}
+
+.second {
+    background-color: white;
+    color: grey;
+}
+
+.second:hover {
+    background-color: grey;
+    color: white;
+}
