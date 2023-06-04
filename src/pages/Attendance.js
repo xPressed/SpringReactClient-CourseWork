@@ -58,7 +58,7 @@ const Attendance = () => {
                 <div className="col-12 col-xl-12">
                     <div className="row justify-content-center text-center">
                         <div className="col-11">
-                            <p className="h1 my-4">Performance Table</p>
+                            <p className="h1 my-4">Attendance Table</p>
                             {(user.isAdmin || user.isTeacher) && <Button onClick={() => setEditVisible(true)} type="button" className={["btn btn-secondary btn-lg", styles.btn].join(' ')}>Add Attendance Record</Button>}
                             <table id="userstable" className="table table-striped table-bordered table-sm m-0 p-0">
                                 <thead>
